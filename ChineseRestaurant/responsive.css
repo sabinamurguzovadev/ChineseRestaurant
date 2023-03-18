@@ -1,0 +1,564 @@
+@media screen and (max-width:1330px) {
+    .sectionTh-card img {
+        width: 300px;
+
+
+    }
+
+    .sectionTh-Container {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .sectionTh-card {
+        text-align: center;
+    }
+
+    .sectionTh-card {
+        text-align: center;
+    }
+
+    .sectionTh-text h4 {
+        font-size: 20px;
+    }
+
+    .sectionTh-text p {
+        font-size: 22px;
+        max-width: 300px;
+    }
+
+
+
+}
+
+@media screen and (max-width:1400px) {
+    .contOne {
+        width: 333px;
+        height: 484px;
+        padding: 10px;
+    }
+
+    .contOne img {
+        width: 333px;
+        height: 484px;
+        padding: 10px;
+    }
+
+    .sectionOne-container {
+        max-width: 1080px;
+        margin-left: auto;
+        margin-right: auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(333px, 1fr));
+        margin-top: 46px;
+    }
+}
+
+@media screen and (max-width:1230px) {
+    .sectionTwo-Container {
+        max-width: 1050px;
+        gap: 45px;
+        grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+    }
+
+    .btTwo {
+        width: 82px;
+        height: .5px;
+        background: var(--ftGray);
+    }
+
+    .card-two-alt p {
+
+        font-size: 20px;
+
+        line-height: 22px;
+        max-width: 302px;
+    }
+}
+
+@media screen and (max-width:1300px) {
+    .section-container {
+        display: grid;
+        max-width: 1080px;
+        margin-left: auto;
+        margin-right: auto;
+        grid-template-columns: 7fr 5fr;
+        margin-top: 162px;
+        margin-bottom: 104px;
+    }
+
+    .cont-img img {
+        max-width: 482px !important;
+        max-height: 692px;
+    }
+
+    .cont-img {
+        max-width: 482px !important;
+        max-height: 692px;
+    }
+
+    .cont-right-text h4 {
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 44px;
+
+    }
+
+    .cont-right-text h3 {
+        margin-top: 10px;
+        font-size: 40px;
+        font-weight: 400;
+
+    }
+
+    .cont-right-text p {
+        font-size: 22px;
+        font-weight: 400;
+        line-height: 37px;
+        margin-top: 22px;
+
+    }
+}
+
+@media screen and (max-width:1330px) {
+    .sectionSix-Container {
+        display: grid;
+        max-width: 1000px;
+        margin-left: auto;
+        margin-right: auto;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        margin-top: 36px;
+        gap: 41px;
+    }
+
+    .card-six img {
+        max-width: 300px;
+    }
+}
+
+@media screen and (max-width:1100px) {
+    .section-container {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .sectionOne-container {
+        max-width: 714px;
+        margin-left: auto;
+        margin-right: auto;
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(333px, 1fr));
+        margin-top: 46px;
+    }
+
+    .form-container-all {
+        max-width: 1000px;
+        min-height: 1000px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: -200px;
+    }
+
+    .sectionFour-container h3 {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+
+    .sectionTwo-Container {
+        max-width: 844px;
+        gap: 45px;
+        grid-template-columns: repeat(auto-fill, minmax(387px, 1fr));
+        margin-left: auto;
+        margin-right: auto;
+
+    }
+
+    .btTwo {
+        width: 52px;
+        height: .5px;
+        background: var(--ftGray);
+    }
+
+    .card-two-alt p {
+
+        font-size: 15px;
+
+        line-height: 22px;
+        max-width: 222px;
+    }
+
+    .card-two {
+        max-width: 387px;
+    }
+
+    .cont-img img {
+        max-width: 382px !important;
+        max-height: 592px;
+    }
+
+    .cont-img {
+        max-width: 382px !important;
+        max-height: 592px;
+    }
+
+    .cont-right-text p {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30px;
+        margin-top: 22px;
+
+    }
+    .sectionFour-Container h3{
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media screen and (max-width:1020px) {
+    .sectionTh-Container {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        margin-left: 20px;
+        margin-right: 20px;
+        gap: 40px;
+    }
+
+    .sectionTh-text {
+        max-width: 300px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .sectionSix-Container {
+        display: grid;
+        max-width: 641px;
+        margin-left: auto;
+        margin-right: auto;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        margin-top: 36px;
+        gap: 41px;
+    }
+    .sectionFour-Container h3{
+        font-size: 40px !important;
+        line-height: 45px;
+    }
+    .hd {
+       
+        height: 75px;
+       
+    }
+    
+}
+
+@media screen and (max-width:870px) {
+    .sectionTwo-Container {
+        display: flex;
+        align-items: center;
+        transform: translateX(-8%);
+        flex-direction: column;
+        margin-top: 105px;
+    }
+
+    .card-two-alt p {
+        font-size: 20px;
+        max-width: 402px;
+
+    }
+
+    .btTwo {
+        width: 182px;
+        height: .5px;
+    }
+
+}
+
+@media screen and (max-width:780px) {
+
+    .section-container,
+    .sectionOne-container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .section-container p {
+        max-width: 400px;
+    }
+
+    .footer-container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:660px) {
+    .sectionSix-Container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width:660px) {
+    .card-two-alt p {
+        font-size: 20px;
+        max-width: 242px;
+
+    }
+
+    .btTwo {
+        width: 52px;
+        height: .5px;
+    }
+
+    .sectionTwo-Container {
+        transform: translateX(-0%);
+    }
+}
+
+@media screen and (max-width:830px) {
+    .topMenu h3 {
+        font-size: 20px;
+
+    }
+}
+
+@media screen and (max-width:570px) {
+    .topMenu h3 {
+        font-size: 17px;
+
+    }
+}
+
+@media screen and (max-width:500px) {
+    .topMenu {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+
+    }
+
+    .twoBottomText {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}
+
+@media screen and (max-width:400px) {
+    .contOne {
+        max-width: 300px;
+    }
+
+    .section-container img {
+        max-width: 300px !important;
+    }
+
+    .sectionTwo-Container {
+        max-width: 300px;
+        transform: translateX(0%);
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+
+    }
+}
+
+@media screen and (max-width:815px) {
+    .ul-list {
+        display: flex;
+        gap: 35px;
+        margin-top: 30px;
+    }
+
+    .ul-list {
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        height: 100vh;
+        text-align: center;
+        background-color: rgba(0, 0, 0, 1);
+        position: fixed;
+        top: 0;
+        left: -100%;
+        z-index: 999;
+        padding-top: 50px;
+        transition: .5s all;
+        margin-top: -20px;
+        gap: 15px;
+        opacity: 1;
+
+    }
+    label{
+        display: block;
+    }
+
+
+    #nav-check:checked~ .ul-list {
+        left: -5%;
+    }
+
+}
+
+@media screen and (max-width:800px) {
+    .header-center p {
+        font-size: 28px;
+        margin-bottom: 62px !important;
+    }
+
+    .header-center h1 {
+        font-size: 40px;
+        line-height: 50px;
+    }
+
+    .header-center {
+        margin: 0px 20px 0px 20px;
+        padding-top: 157px;
+    }
+}
+
+@media screen and (max-width:385px) {
+    .two-all {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        text-align: center;
+
+    }
+
+    .two-ust {
+
+        margin-left: 30px;
+    }
+
+    .sectionTwo-Container {
+        max-width: 300px;
+        transform: translateX(0%);
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+
+
+    }
+}
+
+/* form */
+
+
+@media screen and (max-width:970px){
+    .form-ust{
+        display: flex;
+    }
+    .form-ust input{
+        max-width: 300px;
+
+    }
+    .rgh{
+        margin-left: 10px;
+    }
+    form input, select{
+        width: 200px !important;
+
+    }
+    textarea{
+        width: 640px;
+    }
+    .form-button button{
+        width: 680px;
+    }
+    .form-container h3{
+        text-align: left;
+    }
+    .form-container{
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width:740px){
+    .form-ust{
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
+    .rgh{
+        margin-left: 0px;
+    }
+    .form-center{
+        display: flex;
+        flex-direction: column;
+    }
+    form input, select{
+        width: 550px !important;
+
+    }
+    form input{
+        width: 520px !important;
+
+    }
+    textarea{
+        width: 510px;
+    }
+    .form-button button{
+        width: 550px;
+    }
+    .form-container h3{
+        font-size: 60px;
+        margin-right: 10px;
+    }
+}
+@media screen and (max-width:620px){
+    form input, select{
+        width: 450px !important;
+
+    }
+    form input{
+        width: 420px !important;
+
+    }
+    textarea{
+        width: 410px;
+    }
+    .form-button button{
+        width: 450px;
+    }
+}
+@media screen and (max-width:520px){
+    form input, select{
+        width: 350px !important;
+
+    }
+    form input{
+        width: 320px !important;
+
+    }
+    textarea{
+        width: 310px;
+    }
+    .form-button button{
+        width: 350px;
+    }
+}
+@media screen and (max-width:420px){
+    form input, select{
+        width: 300px !important;
+
+    }
+    form input{
+        width: 300px !important;
+
+    }
+    textarea{
+        width: 230px;
+    }
+    .form-button button{
+        width: 230px;
+    }
+    input{
+        max-width: 230px !important;
+    }
+    select{
+        max-width: 230px;
+    }
+    .form-container h3{
+        font-size: 45px;
+        line-height: 40px;
+        margin-right: 10px;
+    }
+}
